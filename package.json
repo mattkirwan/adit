@@ -1,0 +1,26 @@
+{
+  "name": "adit",
+  "version": "0.0.1",
+  "description": "An opiniated module for consuming kafka topics into deepstream",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mattkirwan/adit.git"
+  },
+  "keywords": [
+    "apache",
+    "kafka",
+    "node",
+    "nodejs",
+    "deepstream"
+  ],
+  "author": "lkjsad@fastmail.im",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattkirwan/adit/issues"
+  },
+  "homepage": "https://github.com/mattkirwan/adit#readme"
+}
