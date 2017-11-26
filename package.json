@@ -4,6 +4,7 @@
   "description": "An opiniated module for consuming kafka topics into deepstream",
   "main": "index.js",
   "scripts": {
+    "start": "node src/index.js",
     "test": "./node_modules/.bin/jasmine"
   },
   "repository": {
